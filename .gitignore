@@ -1,0 +1,25 @@
+# Keil / MDK build outputs
+MDK-ARM/STM32_SmartLight_Protect/
+MDK-ARM/*.lst
+MDK-ARM/*.uvguix.*
+MDK-ARM/codex_build.txt
+
+# Common binary/debug outputs
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.htm
+*.lnp
+*.dep
+*.bak
+*.Bak
+*.tmp
+*.temp
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
